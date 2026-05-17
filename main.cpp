@@ -16,4 +16,5 @@ int difference(int a, int b) {
 int main() {
 	cout << "Hello world";
 	cout << "fdks;lf";
+	cout << sum(1, 2) << endl << sum(3.4, 5.6) << endl;
 }
