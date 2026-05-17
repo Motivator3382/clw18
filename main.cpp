@@ -7,6 +7,9 @@ void myprint() {
 int sum(int a, int b) {
 	return a + b;
 }
+double sum(double a, double b) {
+	return a + b;
+}
 int main() {
 	cout << "Hello world";
 }
